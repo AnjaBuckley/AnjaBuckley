@@ -5,7 +5,7 @@ I'm a problem-solver at heart, with a passion for leveraging the power of Genera
 - 🔭 I’m currently working on different Multi-Agent Apps.
 - 🌱 I’m currently learning how to build AI Agents with CrewAI.
 - 👯 I’m looking to collaborate on Multi-Agent projects.
-- 📫 How to reach me: https://www.linkedin.com/feed/
+- 📫 How to reach me: https://www.linkedin.com/in/anjabuckley/
 
 
 <!--
