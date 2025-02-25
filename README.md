@@ -2,9 +2,10 @@
 
 I'm a problem-solver at heart, with a passion for leveraging the power of Generative AI and AI solutions to drive business growth and efficiency.
 
-- 🔭 I’m currently working on different Multi-Agent Apps.
+- 🔭 I’m currently working on different GenAI Apps.
 - 🌱 I’m currently learning how to build AI Agents with CrewAI.
-- 👯 I’m looking to collaborate on Multi-Agent projects.
+- 👯 I’m looking to collaborate on GenAI projects.
+- 🌱 I’m currently participating in the Free GenAI Bootcamp.
 - 📫 How to reach me: https://www.linkedin.com/in/anjabuckley/
 
 
