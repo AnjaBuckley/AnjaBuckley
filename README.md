@@ -5,7 +5,7 @@ I'm a problem-solver at heart, with a passion for leveraging the power of Genera
 - 🔭 I’m currently working on different GenAI Apps.
 - 🌱 I’m currently learning how to build AI Agents with CrewAI.
 - 👯 I’m looking to collaborate on GenAI projects.
-- 🌱 I’m currently participating in the Free GenAI Bootcamp.
+- 🌱 I’m currently participating in the [Free GenAI Bootcamp](https://genai.cloudprojectbootcamp.com/).
 - 📫 How to reach me: https://www.linkedin.com/in/anjabuckley/
 
 
