@@ -3,7 +3,7 @@
 I'm a problem-solver at heart, with a passion for leveraging the power of Generative AI and AI solutions to drive business growth and efficiency.
 
 - 🔭 I’m currently working on different GenAI Apps.
-- 🌱 I’m currently participating in Hamza Farooq's Maven Course Enterprise RAG and Multi-Agent Applications https://maven.com/boring-bot/advanced-llm
+- 🌱 I’m currently participating in Hamza Farooq's [Maven Course Enterprise RAG and Multi-Agent Applications] (https://maven.com/boring-bot/advanced-llm).
 - 👯 I’m looking to collaborate on GenAI projects.
 - 🌱 I’m successfulkly completed the [Free GenAI Bootcamp](https://genai.cloudprojectbootcamp.com/).
 - 📫 How to reach me: https://www.linkedin.com/in/anjabuckley/
